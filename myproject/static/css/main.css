@@ -1,0 +1,12 @@
+.firstdiv{
+    background-color: aquamarine;
+
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.indexpage{
+    color: white;
+}
